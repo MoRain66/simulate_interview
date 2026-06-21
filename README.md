@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/MoRain66/my_assets@main/imgs/simulate-interview/morain-logo.jpeg" alt="Morain Logo" width="120"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/MoRain66/my_assets@main/imgs/simulate-interview/morain-logo.jpeg" alt="Morain Logo" width=100%></p>
 
 # Simulate Interview — 模拟面试
 
