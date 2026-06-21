@@ -1,13 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 6b83376620b183f1d97ad5b5334a1efd_54535bbd6d4711f18805525400d9a7a1
-    ReservedCode1: RBpS92TsMpcDWHH/0HiToyXWxdZ6/EG847L4bP4Hz0jm1vY7b98PQj8Retveyo820reE8ptoSaMKkE7h4jRxg06yoZWB1uJWGZK+RxstPi8LESRbx5X/kNmIMhLbDF9hwWlJDs+G6gBkngjMWhIRXOd5ZIPdzrDCB44uA5uKMDVW64CyNf+CUpZliJg=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 6b83376620b183f1d97ad5b5334a1efd_54535bbd6d4711f18805525400d9a7a1
-    ReservedCode2: RBpS92TsMpcDWHH/0HiToyXWxdZ6/EG847L4bP4Hz0jm1vY7b98PQj8Retveyo820reE8ptoSaMKkE7h4jRxg06yoZWB1uJWGZK+RxstPi8LESRbx5X/kNmIMhLbDF9hwWlJDs+G6gBkngjMWhIRXOd5ZIPdzrDCB44uA5uKMDVW64CyNf+CUpZliJg=
----
 
 <p align="center"><img src="morain-logo.jpeg" alt="Morain Logo" width="120"></p>
 
